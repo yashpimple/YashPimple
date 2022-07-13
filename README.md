@@ -2,23 +2,25 @@
 <h1 align="center">Hi 👋, I'm Yash Pimple</h1>
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am a DevOps & also passionate about Open Source 💻</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpimple&label=Profile%20views&color=0e75b6&style=flat" alt="yashpimple" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashpimple22" target="blank"><img src="https://img.shields.io/twitter/follow/yashpimple22?logo=twitter&style=for-the-badge" alt="yashpimple22" /></a> </p>
 
-- 🌱 I’m currently learning **Devops and Java**
+- 🌱 I’m currently learning **Devops & Java**
 
-- 📝 I regularly write articles on [@yashpimple22/insights-i-learned-from-navals-podcast-96255dfdd289](@yashpimple22/insights-i-learned-from-navals-podcast-96255dfdd289)
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 📝 I regularly write articles on [https://hashnode.com/@yashpimple22](https://hashnode.com/@yashpimple22)
 
 - 📫 How to reach me **yashpimple22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashpimple22" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yashpimple22" height="30" width="40" /></a>
 <a href="https://twitter.com/yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpimple22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-pimple-623683222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-pimple-623683222" height="30" width="40" /></a>
-<a href="https://medium.com/@yashpimple22/insights-i-learned-from-navals-podcast-96255dfdd289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashpimple22/insights-i-learned-from-navals-podcast-96255dfdd289" height="30" width="40" /></a>
+<a href="https://hashnode.com/@yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashpimple22" height="30" width="40" /></a>
+<a href="https://medium.com/@yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashpimple22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpimple&show_icons=true&locale=en" alt="yashpimple" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpimple&" alt="yashpimple" /></p>
+
 
