@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yash Pimple</h1>
-<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am a DevOps & also passionate about Open Source 💻</h3>
+<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am learning DevOps & also passionate about Open Source 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpimple&label=Profile%20views&color=0e75b6&style=flat" alt="yashpimple" /> </p>
 
