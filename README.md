@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi 👋, I'm Yash Pimple</h1>
+<h1 align="center">Hi 👋, Myself Yash Pimple</h1>
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am learning DevOps & also passionate about Open Source 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpimple&label=Profile%20views&color=0e75b6&style=flat" alt="yashpimple" /> </p>
