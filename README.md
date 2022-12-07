@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **yashpimple22@gmail.com**
 
+- 📰 I regularly Publish Content(Newsletter) on [https://www.getrevue.co/profile/yashpimple](https://www.getrevue.co/profile/yashpimple)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yashpimple22" height="30" width="40" /></a>
