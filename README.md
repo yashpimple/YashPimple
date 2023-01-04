@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yashpimple22@gmail.com**
 
-- 📰 I regularly Publish Content(Newsletter) on [https://www.getrevue.co/profile/yashpimple](https://www.getrevue.co/profile/yashpimple)
+- 📰 I regularly Publish Content(Newsletter) on [https://www.substack/profile/yashpimple](https://substack.com/profile/116076738-yash-pimple?utm_source=user-menu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
