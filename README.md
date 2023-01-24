@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, Myself Yash Pimple</h1>
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am learning DevOps & also passionate about Open Source 💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpimple&label=Profile%20views&color=0e75b6&style=flat" alt="yashpimple" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashpimple22" target="blank"><img src="https://img.shields.io/twitter/follow/yashpimple22?logo=twitter&style=for-the-badge" alt="yashpimple22" /></a> </p>
+
 
 - 🌱 I’m currently learning **Devops & Next.js**
 
