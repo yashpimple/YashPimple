@@ -27,19 +27,21 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/210548887-849aa70e-d480-4f3f-adae-799cf0bac11d.jpeg" alt="Github-Actions" width="250px" align="left" /></a>
+<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><strong>Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples</strong></a>
+<br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Helm" and how we can deploy helm charts. Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
+</p>
+
+</br></br></br>
+
+<p align="left">
 <a href="https://yashpimple.hashnode.dev/reflecting-on-my-journey-dev-retro-2022" title="Reflecting my Journey"><img src="https://user-images.githubusercontent.com/97302447/210547427-aee05c5a-ac8a-464f-8c60-e57296eb4d16.png" alt="Dev Retro 2022" width="250px" align="left" /></a>
 <a href="https://yashpimple.hashnode.dev/reflecting-on-my-journey-dev-retro-2022" title="Reflecting on my journey!! DevRetro 2022"><strong>Reflecting on my journey!! DevRetro 2022</strong></a>
 <br/> Hello Folks!! I have recently published my last article for the Year 2022🚀 "Reflecting my Journey" which explores all my learning in tech from the year 2022✨ I hope you enjoy it! 😊
 </p>
+
 </br></br></br>
 </br></br></br>
-
-<p align="left">
-<a href="https://yashpimple.hashnode.dev/beginners-guide-to-github-actions" title="Beginners Guide to Github-Actions"><img src="https://user-images.githubusercontent.com/97302447/210548887-849aa70e-d480-4f3f-adae-799cf0bac11d.jpeg" alt="Github-Actions" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/beginners-guide-to-github-actions" title="Beginner's Guide into Github-Actions"><strong>Beginner's Guide into Github-Actions</strong></a>
-<br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Github Actions". Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
-</p>
-
 
 <!-- HASHNODE_BLOG:END -->
 </br></br></br>
