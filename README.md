@@ -17,6 +17,7 @@
 
 - 📰 I regularly Publish Content(Newsletter) on [https://www.substack/profile/yashpimple](https://substack.com/profile/116076738-yash-pimple?utm_source=user-menu)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashpimple22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpimple22" height="30" width="40" /></a>
@@ -27,7 +28,7 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/210548887-849aa70e-d480-4f3f-adae-799cf0bac11d.jpeg" alt="Github-Actions" width="250px" align="left" /></a>
+<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/216414184-3badada5-c021-46a3-b8ff-352a95f4eb70.png" alt="Github-Actions" width="250px" align="left" /></a>
 <a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><strong>Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples</strong></a>
 <br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Helm" and how we can deploy helm charts. Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
 </p>
