@@ -28,21 +28,19 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/216414184-3badada5-c021-46a3-b8ff-352a95f4eb70.png" alt="Github-Actions" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><strong>Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples</strong></a>
-<br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Helm" and how we can deploy helm charts. Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
+<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><img src="https://user-images.githubusercontent.com/97302447/224335559-18c2e5f5-ac75-4e6e-a5a8-8fcb7fb9c341.png" alt="DevOps-Project" width="250px" align="left" /></a>
+<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><strong>Deploy a Node.js App using Jenkins on AWS EC2 instances</strong></a>
+<br/> Hello Everyone 👋 In this blog, we are going to deploy a simple Node.js project built on an EC2 instance using Jenkins.I hope you enjoy it! 😊
 </p>
+
 
 </br></br></br>
 
 <p align="left">
-<a href="https://yashpimple.hashnode.dev/reflecting-on-my-journey-dev-retro-2022" title="Reflecting my Journey"><img src="https://user-images.githubusercontent.com/97302447/210547427-aee05c5a-ac8a-464f-8c60-e57296eb4d16.png" alt="Dev Retro 2022" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/reflecting-on-my-journey-dev-retro-2022" title="Reflecting on my journey!! DevRetro 2022"><strong>Reflecting on my journey!! DevRetro 2022</strong></a>
-<br/> Hello Folks!! I have recently published my last article for the Year 2022🚀 "Reflecting my Journey" which explores all my learning in tech from the year 2022✨ I hope you enjoy it! 😊
+<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/216414184-3badada5-c021-46a3-b8ff-352a95f4eb70.png" alt="Github-Actions" width="250px" align="left" /></a>
+<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><strong>Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples</strong></a>
+<br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Helm" and how we can deploy helm charts. Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
 </p>
-
-</br></br></br>
-</br></br></br>
 
 <!-- HASHNODE_BLOG:END -->
 </br></br></br>
