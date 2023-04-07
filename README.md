@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@yashpimple22](https://hashnode.com/@yashpimple22)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@yashpimple22)
 
 - 📫 How to reach me **yashpimple22@gmail.com**
 
-- 📰 I regularly Publish Content(Newsletter) on [https://www.substack/profile/yashpimple](https://substack.com/profile/116076738-yash-pimple?utm_source=user-menu)
+- 📰 I regularly Publish Content(Newsletter) on [Substack](https://substack.com/profile/116076738-yash-pimple?utm_source=user-menu)
 
 
 <h3 align="left">Connect with me:</h3>
