@@ -1,10 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, Myself Yash Pimple</h1>
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am learning DevOps & also passionate about Open Source 💻</h3>
-
-
-<p align="left"> <a href="https://twitter.com/yashpimple22" target="blank"><img src="https://img.shields.io/twitter/follow/yashpimple22?logo=twitter&style=for-the-badge" alt="yashpimple22" /></a> </p>
-
 
 - 🌱 I’m currently learning **Devops** & Exploring **Web3**
 
