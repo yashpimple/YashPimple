@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops** & Exploring **Web3**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **DevOps**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@yashpimple22)
 
