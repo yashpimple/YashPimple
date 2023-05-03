@@ -25,18 +25,18 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><img src="https://user-images.githubusercontent.com/97302447/224335559-18c2e5f5-ac75-4e6e-a5a8-8fcb7fb9c341.png" alt="DevOps-Project" width="250px" align="left" /></a>
-<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><strong>Deploy a Node.js App using Jenkins on AWS EC2 instances</strong></a>
-<br/> Hello Everyone 👋 In this blog, we are going to deploy a simple Node.js project built on an EC2 instance using Jenkins.I hope you enjoy it! 😊
+<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances](https://yashpimple.hashnode.dev/scaling-your-containers-with-amazon-ecs-and-ecr-a-practical-tutorial" title="Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial"><img src="https://user-images.githubusercontent.com/97302447/235843659-9220ad24-981f-454b-b062-afe66cf9683f.jpg" alt="DevOps-Project" width="250px" align="left" /></a>
+<a href="https://yashpimple.hashnode.dev/scaling-your-containers-with-amazon-ecs-and-ecr-a-practical-tutorial" title="Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial"><strong>Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial</strong></a>
+<br/> Greetings Everyone ,In this blog, we are going to deploy a simple web-based application built on an AWS ECS & ECR☁.Make sure to give it a read! 
 </p>
 
 
 </br></br></br>
 
 <p align="left">
-<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><img src="https://user-images.githubusercontent.com/97302447/216414184-3badada5-c021-46a3-b8ff-352a95f4eb70.png" alt="Github-Actions" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1" title="Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples"><strong>Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples</strong></a>
-<br/> Hello Folks!! My new Blog is out !!! In this blog, I have talked about "Helm" and how we can deploy helm charts. Do give it a read and let me know your thoughts✨ I hope you enjoy it! 😊
+<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><img src="https://user-images.githubusercontent.com/97302447/224335559-18c2e5f5-ac75-4e6e-a5a8-8fcb7fb9c341.png" alt="DevOps-Project" width="250px" align="left" /></a>
+<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances" title="Deploy a Node.js App using Jenkins on AWS EC2 instances"><strong>Deploy a Node.js App using Jenkins on AWS EC2 instances</strong></a>
+<br/> Hello Everyone 👋 In this blog, we are going to deploy a simple Node.js project built on an EC2 instance using Jenkins.I hope you enjoy it! 😊
 </p>
 
 <!-- HASHNODE_BLOG:END -->
