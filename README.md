@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **yashpimple22@gmail.com**
 
-- 📰 I regularly Publish Content(Newsletter) on [Substack](https://substack.com/profile/116076738-yash-pimple?utm_source=user-menu)
-
-
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yashpimple22)
