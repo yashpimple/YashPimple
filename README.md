@@ -19,7 +19,6 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yashpimple.hashnode.dev/)
 
 
-
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -58,13 +57,8 @@
   
   
  
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpimple&show_icons=true&locale=en&layout=compact" alt="yashpimple" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpimple&show_icons=true&locale=en" alt="yashpimple" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpimple&" alt="yashpimple" /></p>
-
-
-
