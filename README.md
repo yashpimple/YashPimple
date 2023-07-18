@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang** & Exploring the  **Cloud-Native** Ecosystem
 
-- 👯 I’m looking to collaborate on **DevOps Project**
+- 👯 I’m looking to collaborate on **DevOps **
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@yashpimple22)
 
