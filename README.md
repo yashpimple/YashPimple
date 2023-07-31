@@ -10,8 +10,6 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@yashpimple22)
 
-- 📫 How to reach me **yashpimple22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yashpimple22)
