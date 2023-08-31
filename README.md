@@ -6,8 +6,8 @@
 
 
 - 🌱 I’m currently learning **Golang** & Exploring the **Cloud-Native** Ecosystem
-
 - 👯 I’m looking to collaborate on **DevOps**, **Devrel**🥑 and **Open-Source**
+- 📚 **AWS community Builder**
 
 <h3 align="left">Connect with me:</h3>
 
