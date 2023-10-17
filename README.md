@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋 Myself Yash Pimple</h1>
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am learning DevOps & also passionate about Open Source 💻 </h3>
 
-
 - 🌱 I’m currently learning **Golang** & Exploring the **Cloud-Native** Ecosystem
 - 👯 I’m looking to collaborate on **DevOps**, **Go**🥑 and **Open-Source**
 - 📚 **AWS community Builder**
