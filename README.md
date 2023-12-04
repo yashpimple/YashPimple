@@ -2,9 +2,9 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 <h1 align="center">Hi 👋 Myself Yash Pimple</h1>
-<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 Currently working as a DevOps Intern & also passionate about Cloud-native things 💻 </h3>
+<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am an avid cloud and DevOps enthusiast & also passionate about Cloud-native things 💻 </h3>
 
-- 🌱 I’m currently learning **Golang** & Exploring the **Cloud-Native** Ecosystem
+- 🌱 Learning **Golang** & Exploring the **Cloud-Native** Ecosystem
 - 👯 I’m looking to collaborate on **DevOps**, **Go**🥑 and **Open-Source**
 - ✉️ I also try to share my knowledge on DevOps, Cloud, and Open Source through my [blog](https://yashpimple.hashnode.dev/)
 - 📚 **AWS community Builder**
