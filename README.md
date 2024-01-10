@@ -19,17 +19,18 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="" title="Securing the Cloud: A Practical Guide to AWS WAF Implementation"><img src="https://github.com/YashPimple/YashPimple/assets/97302447/79e01cd9-858b-4d29-b08b-59d4bd5ff48b" width="250px" align="left" /></a>
+<a href="https://yashpimple.hashnode.dev/securing-the-cloud-a-practical-guide-to-aws-waf-implementation" title="Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial"><strong>Securing the Cloud: A Practical Guide to AWS WAF Implementation</strong></a>
+<br/> Hello everyone! 👋 In this blog we will delve into the realm of AWS WAF & Shield – two formidable weapons in the arsenal of AWS services dedicated to fortifying your digital defenses </p>
+
+</br></br>
+
+<p align="left">
 <a href="https://yashpimple.hashnode.dev/aws-codecommit-codebuild-and-codedeploy-the-dynamic-trio-for-reliable-code-deployment"><img src="https://github.com/YashPimple/YashPimple/assets/97302447/9a769c4f-3af3-4d15-a263-653e9832ce47" alt="AWS-CodePipeline" width="250px" align="left" /></a>
 <a href="https://yashpimple.hashnode.dev/aws-codecommit-codebuild-and-codedeploy-the-dynamic-trio-for-reliable-code-deployment"><strong>AWS CodeCommit, CodeBuild, and CodeDeploy: The Dynamic Trio for Reliable Code Deployment</strong></a>
 <br/> Hello everyone! 👋 In this blog, we'll explore the powerful AWS services called CodeCommit, CodeBuild, and CodeDeploy with a hands-on experience that can greatly enhance your software development and deployment process. 
 </p>
-</br></br>
 
-<p align="left">
-<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances](https://yashpimple.hashnode.dev/scaling-your-containers-with-amazon-ecs-and-ecr-a-practical-tutorial" title="Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial"><img src="https://user-images.githubusercontent.com/97302447/235843659-9220ad24-981f-454b-b062-afe66cf9683f.jpg" alt="DevOps-Project" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/scaling-your-containers-with-amazon-ecs-and-ecr-a-practical-tutorial" title="Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial"><strong>Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial</strong></a>
-<br/> Greetings Everyone, In this blog, we are going to deploy a simple web-based application built on an AWS ECS & ECR. Make sure to give it a read! 
-</p>
 
 <!-- HASHNODE_BLOG:END -->
 </br></br></br>
