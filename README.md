@@ -5,8 +5,7 @@
 <h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from India 🎓 I am an avid cloud and DevOps enthusiast & also passionate about Cloud-native things 💻 </h3>
 
 - 🌱 Learning **Golang** & Exploring the **Cloud-Native** Ecosystem
-- 👯 I’m looking to collaborate on **DevOps**, **Go**🥑 and **Open-Source**
-- ✉️ I also try to share my knowledge on DevOps, Cloud, and Open Source through my [blog](https://yashpimple.hashnode.dev/)
+- ✉️ I try to share my learnings on DevOps, Cloud, and Open Source through my [blog](https://yashpimple.hashnode.dev/)
 - 📚 **AWS community Builder**
 
 <h3 align="left">Connect with me:</h3>
