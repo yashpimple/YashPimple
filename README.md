@@ -29,8 +29,8 @@
 <a href="https://www.cloudraft.io/blog/migrating-vms-to-kubernetes-with-kubevirt?utm_source=blog&utm_medium=social&utm_campaign=kubevirt"><strong>Migrating VMs to Kubernetes with Kubevirt</strong></a>
 <br/> Hello everyone! 👋 In this blog, we gonna see how KubeVirt is revolutionizing IT infrastructure by seamlessly integrating VM-based workloads into Kubernetes clusters. The blog also explores the challenges of migrating VMs to Kubernetes, the role of KubeVirt in bridging the gap, and practical insights for successful migration.
 </p>
+</br>
 
-</br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
