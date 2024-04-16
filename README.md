@@ -30,9 +30,7 @@
 <br/> Hello everyone! 👋 In this blog, we gonna see how KubeVirt is revolutionizing IT infrastructure by seamlessly integrating VM-based workloads into Kubernetes clusters. The blog also explores the challenges of migrating VMs to Kubernetes, the role of KubeVirt in bridging the gap, and practical insights for successful migration.
 </p>
 
-<!-- HASHNODE_BLOG:END -->
-</br></br></br>
-
+</br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -50,9 +48,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
   
 </p>
-  
-  
- 
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpimple&show_icons=true&locale=en&layout=compact" alt="yashpimple" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpimple&show_icons=true&locale=en" alt="yashpimple" /></p>
