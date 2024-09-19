@@ -6,7 +6,7 @@
 
 - 🌱 Learning **Golang** & Exploring the **Cloud-Native** Ecosystem
 - ✉️ I try to share my learnings on DevOps, Cloud, and Open Source through my [blog](https://yashpimple.hashnode.dev/)
-- 📚 **AWS community Builder**
+- 📚 **AWS community Builder** and **CNCF Ambassador**
 
 <h3 align="left">Connect with me:</h3>
 
